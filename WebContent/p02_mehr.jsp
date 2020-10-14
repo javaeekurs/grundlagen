@@ -27,5 +27,7 @@
 	}
 %>
 
+{{ERSETZT_FILTER_FILTER}}
+
 </body>
 </html>

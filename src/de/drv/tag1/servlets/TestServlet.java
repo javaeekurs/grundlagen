@@ -26,6 +26,7 @@ public class TestServlet extends HttpServlet {
 		out.println("<!DOCTYPE html>");
 		out.println("<html>");
 		out.println("<head>");
+		out.println("<title>Test</title>");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("Hallo aus dem Servlet");

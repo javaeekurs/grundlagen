@@ -9,6 +9,7 @@
 <body>
 <%= request.getRemoteAddr() %>
 
+<!--  ?name=Bernd -->
 <h3>Hallo <%= request.getParameter("name") %></h3>
 
 
